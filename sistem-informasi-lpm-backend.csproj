@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <Reference Include="PolmanAstraLibrary">
-      <HintPath>..\..\Users\abuga\OneDrive - Politeknik Astra\Template Web React\Template Web React\sistem-informasi-produksi-backend\bin\Debug\net8.0\PolmanAstraLibrary.dll</HintPath>
+      <HintPath>..\..\..\..\template\Template Web React\sistem-informasi-produksi-backend\bin\Debug\net8.0\PolmanAstraLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 
